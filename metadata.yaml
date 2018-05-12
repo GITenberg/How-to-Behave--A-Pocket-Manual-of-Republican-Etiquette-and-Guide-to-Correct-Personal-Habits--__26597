@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32113'
     url: http://www.gutenberg.org/2009/agents/32113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26597#How-to-Behave--A-Pocket-Manual-of-Republican-Etiquette-and-Guide-to-Correct-Personal-Habits--_
 gutenberg_issued: '2008-09-12'
 gutenberg_type: Text
 identifiers:
